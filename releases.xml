@@ -4,9 +4,16 @@
         <title>MAGIC STRAWBERRY SOUND ─ Releases</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 08:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 09:17:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RYTHM]]></title>
+            <link>http://www.msbsound.com/release/rythm/</link>
+            <guid>http://www.msbsound.com/release/rythm/</guid>
+            <pubDate>Wed, 02 Mar 2022 09:17:11 GMT</pubDate>
+            <enclosure url="http://www.msbsound.com/wordpress/wp-content/uploads/2022/03/%EB%A3%A8%EC%8B%B8%EC%9D%B4%ED%8A%B8%ED%86%A0%EB%81%BC_RHYTHM_%EC%BB%A4%EB%B2%84-360x360.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Winter 1]]></title>
             <link>http://www.msbsound.com/release/winter-1/</link>
