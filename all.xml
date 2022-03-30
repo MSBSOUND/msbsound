@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 08:23:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 09:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑을 말해야 해 (MAGIC STRAWBERRY SOUND ─ Releases)]]></title>
+            <link>http://www.msbsound.com/release/must-tell-love/</link>
+            <guid>http://www.msbsound.com/release/must-tell-love/</guid>
+            <pubDate>Wed, 30 Mar 2022 09:18:34 GMT</pubDate>
+            <enclosure url="http://www.msbsound.com/wordpress/wp-content/uploads/2022/03/%EC%B5%9C%EC%A0%95%EC%9C%A4-%EC%82%AC%EB%9E%91%EC%9D%84-%EB%A7%90%ED%95%B4%EC%95%BC-%ED%95%B4-%EC%BB%A4%EB%B2%84%EC%A0%80-360x360.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[RHYTHM (MAGIC STRAWBERRY SOUND ─ Releases)]]></title>
             <link>http://www.msbsound.com/release/rythm/</link>
