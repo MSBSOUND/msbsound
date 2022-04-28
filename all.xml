@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 08:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 09:22:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유리잔 (MAGIC STRAWBERRY SOUND ─ Releases)]]></title>
+            <link>http://www.msbsound.com/release/glass/</link>
+            <guid>http://www.msbsound.com/release/glass/</guid>
+            <pubDate>Thu, 28 Apr 2022 09:22:06 GMT</pubDate>
+            <enclosure url="http://www.msbsound.com/wordpress/wp-content/uploads/2022/04/glass-Cover-3000px-360x360.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[터트려 (Burst it all) (MAGIC STRAWBERRY SOUND ─ Releases)]]></title>
             <link>http://www.msbsound.com/release/burst-it-all/</link>
