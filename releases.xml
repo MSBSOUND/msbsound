@@ -4,9 +4,16 @@
         <title>MAGIC STRAWBERRY SOUND ─ Releases</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 08:26:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 09:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아무것도 하지마]]></title>
+            <link>http://www.msbsound.com/release/dont-do-anything/</link>
+            <guid>http://www.msbsound.com/release/dont-do-anything/</guid>
+            <pubDate>Wed, 15 Jun 2022 09:18:06 GMT</pubDate>
+            <enclosure url="http://www.msbsound.com/wordpress/wp-content/uploads/2022/06/%EC%82%AC%EB%9E%8C%EB%98%90%EC%82%AC%EB%9E%8C_%EC%95%84%EB%AC%B4%EA%B2%83%EB%8F%84-%ED%95%98%EC%A7%80%EB%A7%88_%EC%BB%A4%EB%B2%84-360x360.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[퐁당 (Pong Dang)]]></title>
             <link>http://www.msbsound.com/release/pong-dang/</link>
