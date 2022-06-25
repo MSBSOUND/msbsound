@@ -4,9 +4,16 @@
         <title>MAGIC STRAWBERRY SOUND ─ Releases</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 08:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 09:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[I’MMORTAL]]></title>
+            <link>http://www.msbsound.com/release/immortal/</link>
+            <guid>http://www.msbsound.com/release/immortal/</guid>
+            <pubDate>Sat, 25 Jun 2022 09:17:18 GMT</pubDate>
+            <enclosure url="http://www.msbsound.com/wordpress/wp-content/uploads/2022/06/wjIMMORTAL-360x360.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아무것도 하지마]]></title>
             <link>http://www.msbsound.com/release/dont-do-anything/</link>
