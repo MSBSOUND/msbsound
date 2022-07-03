@@ -4,9 +4,16 @@
         <title>MAGIC STRAWBERRY SOUND ─ Releases</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 08:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 09:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5.3]]></title>
+            <link>http://www.msbsound.com/release/5-3/</link>
+            <guid>http://www.msbsound.com/release/5-3/</guid>
+            <pubDate>Sun, 03 Jul 2022 09:18:12 GMT</pubDate>
+            <enclosure url="http://www.msbsound.com/wordpress/wp-content/uploads/2022/06/10CM-%EA%B7%B8%EB%9D%BC%EB%8D%B0%EC%9D%B4%EC%85%98_COVER-%EC%A0%80%ED%95%B4%EC%83%81-360x360.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[I’MMORTAL]]></title>
             <link>http://www.msbsound.com/release/immortal/</link>
