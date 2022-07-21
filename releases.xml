@@ -4,9 +4,16 @@
         <title>MAGIC STRAWBERRY SOUND ─ Releases</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 08:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 09:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[See you again]]></title>
+            <link>http://www.msbsound.com/release/see-you-again/</link>
+            <guid>http://www.msbsound.com/release/see-you-again/</guid>
+            <pubDate>Thu, 21 Jul 2022 09:19:19 GMT</pubDate>
+            <enclosure url="http://www.msbsound.com/wordpress/wp-content/uploads/2022/07/See-you-again_Album-cover%EC%A0%80-360x360.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[착한 사람들이 먼저 가는 우주]]></title>
             <link>http://www.msbsound.com/release/wherethegoodonesgo/</link>
