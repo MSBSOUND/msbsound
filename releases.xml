@@ -4,9 +4,16 @@
         <title>MAGIC STRAWBERRY SOUND ─ Releases</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 08:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 09:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Traveler]]></title>
+            <link>http://www.msbsound.com/release/traveler-2/</link>
+            <guid>http://www.msbsound.com/release/traveler-2/</guid>
+            <pubDate>Sat, 23 Jul 2022 09:18:33 GMT</pubDate>
+            <enclosure url="http://www.msbsound.com/wordpress/wp-content/uploads/2022/07/COVER-TRAVELER_CHEEZEXYOONGY-360x360.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[See you again]]></title>
             <link>http://www.msbsound.com/release/see-you-again/</link>
