@@ -4,9 +4,16 @@
         <title>MAGIC STRAWBERRY SOUND ─ Releases</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 08:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 09:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세레머니(Ceremony)]]></title>
+            <link>http://www.msbsound.com/release/ceremony/</link>
+            <guid>http://www.msbsound.com/release/ceremony/</guid>
+            <pubDate>Tue, 09 Aug 2022 09:20:19 GMT</pubDate>
+            <enclosure url="http://www.msbsound.com/wordpress/wp-content/uploads/2022/08/Ceremony_Cover-360x360.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Traveler]]></title>
             <link>http://www.msbsound.com/release/traveler-2/</link>
