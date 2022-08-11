@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 08:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 09:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Blank (MAGIC STRAWBERRY SOUND ─ Releases)]]></title>
+            <link>http://www.msbsound.com/release/blank/</link>
+            <guid>http://www.msbsound.com/release/blank/</guid>
+            <pubDate>Thu, 11 Aug 2022 09:19:41 GMT</pubDate>
+            <enclosure url="http://www.msbsound.com/wordpress/wp-content/uploads/2022/08/%EC%A0%80Blank_Cover-360x360.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세레머니(Ceremony) (MAGIC STRAWBERRY SOUND ─ Releases)]]></title>
             <link>http://www.msbsound.com/release/ceremony/</link>
