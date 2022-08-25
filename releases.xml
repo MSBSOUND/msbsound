@@ -4,9 +4,16 @@
         <title>MAGIC STRAWBERRY SOUND ─ Releases</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 02:01:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 04:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NO PAIN]]></title>
+            <link>http://www.msbsound.com/release/no-pain/</link>
+            <guid>http://www.msbsound.com/release/no-pain/</guid>
+            <pubDate>Thu, 25 Aug 2022 04:20:31 GMT</pubDate>
+            <enclosure url="http://www.msbsound.com/wordpress/wp-content/uploads/2022/08/SLCG_NoPain_Artwork-360x360.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Blank]]></title>
             <link>http://www.msbsound.com/release/blank/</link>
