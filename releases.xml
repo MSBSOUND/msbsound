@@ -4,9 +4,16 @@
         <title>MAGIC STRAWBERRY SOUND ─ Releases</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 02:04:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 04:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[합]]></title>
+            <link>http://www.msbsound.com/release/completion/</link>
+            <guid>http://www.msbsound.com/release/completion/</guid>
+            <pubDate>Sat, 03 Sep 2022 04:19:26 GMT</pubDate>
+            <enclosure url="http://www.msbsound.com/wordpress/wp-content/uploads/2022/09/kuonechan_completion_album-cover-360x360.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rainy Day]]></title>
             <link>http://www.msbsound.com/release/rainy-day/</link>
