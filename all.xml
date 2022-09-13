@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 08:27:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 09:22:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘의 안녕 (MAGIC STRAWBERRY SOUND ─ Releases)]]></title>
+            <link>http://www.msbsound.com/release/%ec%98%a4%eb%8a%98%ec%9d%98-%ec%95%88%eb%85%95/</link>
+            <guid>http://www.msbsound.com/release/%ec%98%a4%eb%8a%98%ec%9d%98-%ec%95%88%eb%85%95/</guid>
+            <pubDate>Tue, 13 Sep 2022 09:22:51 GMT</pubDate>
+            <enclosure url="http://www.msbsound.com/wordpress/wp-content/uploads/2022/09/LYH_todaygoodbye_cover-360x360.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[합 (MAGIC STRAWBERRY SOUND ─ Releases)]]></title>
             <link>http://www.msbsound.com/release/completion/</link>
